@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Claudia           | 2 	        |
+| Artemis           | 1 	        |
